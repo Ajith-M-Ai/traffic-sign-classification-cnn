@@ -1,6 +1,5 @@
-# traffic-sign-classification-cnn
-CNN model to classify traffic signs with ~99% accuracy using TensorFlow
 # 🚀 Traffic Sign Classification using CNN
+CNN model to classify traffic signs with ~99% accuracy using TensorFlow
 
 ## 📌 Overview
 
